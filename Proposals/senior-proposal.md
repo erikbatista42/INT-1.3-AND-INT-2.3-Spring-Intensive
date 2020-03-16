@@ -40,6 +40,10 @@ I will have a link to the website and the person reviewing my project will be ab
 **Why do you want to meet this objective? How will it improve your project?** 
 The Awards page where I have videos showing off my product presentations. 
 
+## Objective 4: ... say your objective to accomplish here …
+**Why do you want to meet this objective? How will it improve your project?** 
+The Articles page where I show off my articles. 
+
 **How will you demonstrate completion of your objective?** 
 I will have a link to the website and the person reviewing my project will be able to see the changes I've made.
 
