@@ -27,12 +27,14 @@ This project is a website about myself showcasing my projects, awards and articl
 The Porfolio route. This is where I'll showcase my projects and some of them in detail. This route will be the home route where I give a one liner about who I am.
 
 **How will you demonstrate completion of your objective?** 
+I will have a link to the website and the person reviewing my project will be able to see the changes I've made.
 
 ## Objective 2: ... say your objective to accomplish here …
 **Why do you want to meet this objective? How will it improve your project?** 
 I want to accomplish the contact page making it really easy for people to reach out to me.
 
 **How will you demonstrate completion of your objective?** 
+I will have a link to the website and the person reviewing my project will be able to see the changes I've made.
 
 ## Objective 3: ... say your objective to accomplish here …
 **Why do you want to meet this objective? How will it improve your project?** 
